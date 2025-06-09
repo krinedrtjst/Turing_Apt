@@ -1,2 +1,2 @@
 # Turing_Apt
-Turing Code Test
+The purpose of this notebook is to record the code annotations I made while studying for Turing's APT TEST.
